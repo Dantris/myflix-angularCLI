@@ -62,3 +62,4 @@ Deploy your application to GitHub Pages.
 Whenever you make any changes to your application's code, all you need to do is run the command:
 
        ng deploy --base-href=/<repository-name>/
+# myflix-angularCLI
